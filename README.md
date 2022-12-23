@@ -1,5 +1,4 @@
-# Normalization and Relational Database Design
-## WGU C170 Final Project
+# Normalization and Relational Database Design Project
 
 ### SCENARIO
 
@@ -16,12 +15,6 @@ You are a database designer and developer who has been hired by two local busine
 #### Part A:
 
 Construct a normalized physical database model to represent the ordering process for Nora’s Bagel Bin by doing the following:
-
- 
-
-Note: Before proceeding, familiarize yourself with the ordering process for Nora’s Bagel Bin by reviewing the following documents in the Supporting Documents section of this task: the shop’s unnormalized sales order form (“Bagel Order Form”) and the first normal form (1NF) provided in the “Nora’s Bagel Bin Database Blueprints.” 
-
- 
 
 1.  Complete the second normal form (2NF) section of the attached “Nora’s Bagel Bin Database Blueprints” document by doing the following:
 
@@ -107,10 +100,3 @@ a.  Provide the SQL code you wrote to create your table joins query. The query s
 
 b.  Demonstrate that you tested your code by providing a screenshot showing your SQL commands and the database server’s response.
 
- --------
-
-#### Parts C & D:
-
-Submit parts A and B as a PDF, with each part clearly labeled.
-
-Demonstrate professional communication in the content and presentation of your submission.
